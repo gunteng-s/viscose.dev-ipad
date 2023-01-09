@@ -1,2 +1,2 @@
-# viscose.dev-ipad
-아이패드 viscose 작업
+# vscode.dev-ipad
+아이패드 vscode 작업
